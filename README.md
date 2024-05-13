@@ -1,7 +1,4 @@
-## THE CAKE IS A 
-## THE CAKE IS A LIE
-## THE CAKE IS LIE
-## THE CAKE IS A LIE
+## The cake is a lie 🎂
 
 <!---
 realvandi/realvandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
